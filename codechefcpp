@@ -20,7 +20,7 @@ int main() {
             cout<<"2"<<endl;
         }
         else if(s.size()==3){
-            cout<<"1"<<endl;
+            cout<<"2"<<endl;
         }
         else if(s.size()==2){
             int b=0;
